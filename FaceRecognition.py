@@ -4,8 +4,8 @@ import imutils
 import numpy as np
 import cv2
 
-from OpenCV.Settings.sptites_settings import SETTINGS
-from OpenCV.help_functions import overlay_image_alpha
+from Settings.sptites_settings import SETTINGS
+from help_functions import overlay_image_alpha
 
 
 class MainThread:
