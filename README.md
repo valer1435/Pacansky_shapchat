@@ -7,7 +7,7 @@ Avaliable keys is:
 = = delete face mask  
 q = pixel glass mask  
 w = Egor Letov glass mask  
-] = delete glass mask  
+\ = delete glass mask  
 a = adidas hat mask  
 ' = delete hat mask  
 Esc = exit  
