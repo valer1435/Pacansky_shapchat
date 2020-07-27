@@ -1,5 +1,5 @@
 # Pacansky_shapchat
-This is the copy of snapchat technology maded on OpeCV and python just for fun
+This is the copy of snapchat technology made on OpeCV and python just for fun
 
 To start you need to clone repository and after run FaceRecognition.py.   
 Avaliable keys is:  
